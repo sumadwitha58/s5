@@ -1,5 +1,6 @@
 a = 20
 b = 30 
-c = a+b
+c = a+
 
 print("add two numbers"
+
